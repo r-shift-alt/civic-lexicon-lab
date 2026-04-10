@@ -1,54 +1,97 @@
 # dot-r
 
-A working project for building practical public-interest communication infrastructure with heavy AI assistance.
+A public working repository for building practical communication infrastructure with heavy AI assistance.
 
-The project is not starting from a manifesto.
-It is starting from a narrower question:
-what useful tools, methods, datasets, and review routines would help people work across contested political language without collapsing context, meaning, or ethics?
+This project is not trying to launch with a manifesto.
+It is trying to build something people can actually use, inspect, and improve.
 
-The current first artifact track is a bounded German-English political concept lexicon.
-It is designed for bilingual or translation-adjacent communicators, policy-adjacent writers, and other practitioners who need to move between languages without false equivalence or rhetorical drift.
+The current first artifact is a bounded German-English political concept lexicon for people who regularly move between languages, audiences, and political contexts.
+The aim is simple:
+help writers, translators, editors, researchers, and communicators avoid false equivalence when a term looks translatable but is not really carrying the same baggage, history, or practical meaning.
 
-## Why this exists
+## Why this repository exists
 
-Many people are curious about serious AI-assisted work, but do not have a concrete, public-interest use case to build around.
-This project is meant to be one such use case:
-small enough to inspect,
-concrete enough to contribute to,
-and ambitious enough to grow into something durable.
+A lot of people want to do serious AI-assisted work.
+Most of what they find is either:
+- generic automation,
+- shallow content production,
+- or demo-heavy projects that never become durable public work.
 
-It is also meant to function as an open GitHub home for people who want to do heavy AI-assisted work on something more meaningful than generic demos or productivity theater.
-The goal is to offer a real collaboration surface where people can contribute to a bounded public-interest artifact, learn by doing, and help shape a durable workflow.
+This repository is meant to be a better alternative.
 
-## Current focus
+It is a live project built around a real public-interest problem:
+how to work across contested political language without flattening meaning, hiding framing baggage, or pretending that direct translation is neutral.
 
-The project is currently developing:
-- a tightly scoped lexicon MVP
-- entry standards and evidence requirements
-- proxy review routines
-- source-boundary rules
-- a collaboration structure that can eventually support broader public tooling
+That makes it useful in two ways:
+- as a real artifact that can become valuable on its own;
+- as a concrete heavy-AI use case for people who want to contribute to something more serious than prompt theater.
 
-## What this repository is for
+## What the project is actually building
 
-This repository is intended to become the public home for:
-- bounded artifacts that are useful on their own
-- reproducible methods and worksheets
-- public-facing documentation of decisions that affect contributors
-- collaboration around real examples, review, and refinement
+Right now, the project is focused on a first bounded artifact:
+a German-English political concept lexicon with framing notes.
 
-It is not intended to expose every internal planning note.
-Some internal architecture may remain private while the public layer stays focused on useful, inspectable outputs.
+The lexicon is being designed to help with questions like:
+- when is a direct translation safe?
+- when does a familiar equivalent quietly distort the meaning?
+- when should a writer gloss the original term instead of translating it literally?
+- what political baggage travels with a term in one language but not the other?
 
-## Initial contribution surfaces
+The first version is intentionally narrow.
+It is not trying to become a universal political ontology, a translation engine, or an abstract theory archive.
+It is trying to become a small, credible tool that solves a recurring problem well.
 
-Early contributors can help with:
-- improving lexicon entry structure
-- suggesting pilot concepts
-- finding credible German and English source examples
-- reviewing ambiguity, framing baggage, and translation failure modes
-- improving review workflows for AI-assisted drafting
-- helping define what should be public versus what should stay internal
+## Who this is for
+
+This repo is especially for people who recognize one or more of these situations:
+- you work across German and English and keep running into terms that look equivalent but are not;
+- you write, translate, edit, or explain political language and want better judgment than a dictionary gives you;
+- you care about public-interest communication but dislike ideology-first branding;
+- you want to do heavy AI-assisted work on something inspectable, bounded, and cumulatively useful;
+- you would rather contribute to a living workshop than watch another vague “AI changes everything” project drift into nothing.
+
+## Why the first artifact is a lexicon
+
+Because it is concrete.
+Because it can be reviewed.
+Because it has real users.
+Because it can create standalone value before any larger system exists.
+
+The project may expand later into broader tooling, but it earns that expansion only if the first artifact proves useful.
+
+## What is public here, and what is not
+
+This repository is the public home of the project.
+But it is not a dump of every internal planning note.
+
+The public layer is meant to foreground:
+- the current artifact,
+- the methods behind it,
+- contribution pathways,
+- review logic,
+- and concrete next steps.
+
+Some internal architecture stays local for now so the repository remains legible and useful instead of turning into planning exhaust.
+
+## What contributors can help with now
+
+Current high-value contribution surfaces include:
+- improving the lexicon entry format;
+- suggesting or stress-testing pilot concepts;
+- finding strong German and English source examples;
+- identifying framing baggage, ambiguity, and false-equivalence risks;
+- tightening practical guidance for writers and translators;
+- improving review workflows for AI-assisted drafting;
+- helping convert artifact progress into good issue prompts and public contribution packets.
+
+## Current public work sequence
+
+The near-term path is:
+1. tighten the public-facing artifact and method docs;
+2. define the minimum research inputs for the first three pilot concepts;
+3. draft the implementation-ready lexicon concept note;
+4. draft the first three pilot entries;
+5. open issue-ready contribution surfaces around sources, wording, and review.
 
 ## Working principles
 
@@ -57,18 +100,12 @@ Early contributors can help with:
 - bounded artifacts before platform dreams
 - explicit evidence over vague synthesis
 - public value over ideological performance
-
-## Near-term public roadmap
-
-1. Publish a clean repository structure.
-2. Separate public collaboration files from internal working state.
-3. Draft the first implementation-ready lexicon concept note.
-4. Publish the first three pilot entries.
-5. Open a contributor review loop around sources, framing notes, and terminology choices.
+- contribution surfaces over passive spectatorship
 
 ## Status
 
-This repository is in active formation.
-The public layer is being shaped deliberately so that contributors meet concrete work, not abstract branding.
+This is a live repository, not a finished package.
+If you arrive early, that is a feature.
+You can see the artifact taking shape, challenge weak assumptions, improve the public materials, and help turn the repo into a genuinely useful heavy-AI collaboration surface.
 
-If that approach resonates with you, you are welcome to follow, critique, and contribute.
+If that sounds like your kind of work, start with the README, the contribution guide, and the current lexicon materials — then pick a concrete place to help.

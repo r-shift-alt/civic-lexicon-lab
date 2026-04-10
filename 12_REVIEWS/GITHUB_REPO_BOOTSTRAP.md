@@ -32,15 +32,15 @@ The first public repo should include:
 The internal planning files remain local for now via `.gitignore`.
 
 ## Current Technical Status
-- local git repository: should be initialized in `./dot-r`
+- local git repository: initialized in `./dot-r`
 - branch name: `main`
 - remote name: `origin`
-- remote target: `git@github.com:r-shift-alt/civic-lexicon-lab.git` or `https://github.com/r-shift-alt/civic-lexicon-lab.git`
+- remote target: `https://github.com/r-shift-alt/civic-lexicon-lab.git`
+- remote repository: created and initial public commit pushed
 
 ## Remaining Requirement
-To actually create the GitHub repository and push the first commit, authenticated GitHub access is still required on this machine.
-
-If `gh` is unavailable and no GitHub token is configured, the remaining steps are:
-1. provide a GitHub token with repo permissions, or authenticate git/gh on this machine;
-2. create the remote repository;
-3. push the prepared local repository to `main`.
+The repo now exists publicly, but the project still needs the next public contribution surfaces:
+1. minimum-research-inputs note for the first three pilot concepts;
+2. lexicon concept note;
+3. first pilot entries;
+4. issue prompts or contribution packets tied to those entries.
