@@ -1,9 +1,9 @@
-# dot-r
+# civic-lexicon-lab
 
 A public working repository for building practical communication infrastructure with heavy AI assistance.
 
-This project is not trying to launch with a manifesto.
-It is trying to build something people can actually use, inspect, and improve.
+The point of this repo is straightforward:
+build something people can actually use, inspect, and improve.
 
 The current first artifact is a bounded German-English political concept lexicon for people who regularly move between languages, audiences, and political contexts.
 The aim is simple:
