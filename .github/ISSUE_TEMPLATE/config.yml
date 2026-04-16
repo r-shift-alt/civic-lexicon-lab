@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Start with the lexicon pilot reviewer packet
+    url: https://github.com/r-shift-alt/civic-lexicon-lab/blob/main/12_REVIEWS/LEXICON_PILOT_REVIEWER_PACKET.md
+    about: Read the bounded review packet, forced-use scenario, and response expectations before opening feedback.
+  - name: See the current public update note
+    url: https://github.com/r-shift-alt/civic-lexicon-lab/blob/main/12_REVIEWS/LEXICON_FIRST_REVIEW_PUBLIC_UPDATE_NOTE.md
+    about: Get the shortest current-status overview, direct links, and the most useful help needed now.
+  - name: Reuse the first-review handoff note
+    url: https://github.com/r-shift-alt/civic-lexicon-lab/blob/main/12_REVIEWS/LEXICON_FIRST_REVIEW_HANDOFF.md
+    about: Use the compact handoff note if you want the review ask in one reusable page.
