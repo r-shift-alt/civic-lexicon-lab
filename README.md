@@ -76,22 +76,38 @@ Some internal architecture stays local for now so the repository remains legible
 ## What contributors can help with now
 
 Current high-value contribution surfaces include:
-- improving the lexicon entry format;
-- suggesting or stress-testing pilot concepts;
-- finding strong German and English source examples;
-- identifying framing baggage, ambiguity, and false-equivalence risks;
-- tightening practical guidance for writers and translators;
-- improving review workflows for AI-assisted drafting;
-- helping convert artifact progress into good issue prompts and public contribution packets.
+- reviewing the first three pilot entries for practical wording, translation, framing, and explanation usefulness;
+- stress-testing the reviewer packet and forced-use scenario;
+- tightening entry wording where a familiar English equivalent creates false equivalence;
+- identifying where examples, warnings, or recommendations still feel too thin or too dense;
+- finding stronger traceable source examples if a pilot entry's evidence looks weak;
+- improving the public review workflow so a newcomer can act without reading internal planning material.
+
+## Start here if you want to help now
+
+If you want the current review-ready surface, start with:
+- `12_REVIEWS/LEXICON_PILOT_REVIEWER_PACKET.md`
+
+Then read the three pilot drafts:
+1. `11_ARTIFACTS/LEXICON_SOLIDARITAET_ENTRY_DRAFT.md`
+2. `11_ARTIFACTS/LEXICON_SOZIALE_MARKTWIRTSCHAFT_ENTRY_DRAFT.md`
+3. `11_ARTIFACTS/LEXICON_STAATSBUERGERSCHAFT_ENTRY_DRAFT.md`
+
+If you want the bounded first-review ask in reusable form, see:
+- `12_REVIEWS/LEXICON_FIRST_REVIEW_HANDOFF.md`
+- `12_REVIEWS/LEXICON_FIRST_LIVE_REVIEW_SURFACE_GITHUB_ISSUE.md`
+- `12_REVIEWS/LEXICON_FIRST_REVIEW_DIRECT_OUTREACH_BUNDLE.md`
+
+If you want to see how review results will be compressed into a next-step decision, see:
+- `12_REVIEWS/LEXICON_REVIEW_SYNTHESIS_MEMO_TEMPLATE.md`
 
 ## Current public work sequence
 
-The near-term path is:
-1. tighten the public-facing artifact and method docs;
-2. define the minimum research inputs for the first three pilot concepts;
-3. draft the implementation-ready lexicon concept note;
-4. draft the first three pilot entries;
-5. open issue-ready contribution surfaces around sources, wording, and review.
+The repo is now at the first review-ready stage:
+1. the pilot packet and three draft entries exist;
+2. the first live review surfaces are prepared for GitHub issue use or direct outreach reuse;
+3. the next meaningful validation step is to collect 2 to 3 bounded packet responses;
+4. those responses should then be compressed into a short synthesis memo that decides whether to continue, revise, or stop-or-demote the lexicon track.
 
 ## Working principles
 
